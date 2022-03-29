@@ -1,0 +1,2 @@
+# AdminHome.html
+STUDENT MANAGEMENT SYSTEM
